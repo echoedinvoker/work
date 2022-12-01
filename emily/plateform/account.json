@@ -1,0 +1,155 @@
+[{
+  "_id": "mattchang@mirle.com.tw",
+  "userId": "mattchang@mirle.com.tw",
+  "active": true,
+  "expiry": {
+    "$date": {
+      "$numberLong": "4817689249286"
+    }
+  },
+  "feature": {
+    "scheduleTrigger": true,
+    "mailTrigger": true,
+    "apiTrigger": true
+  },
+  "owner": "Ionet",
+  "scale": 1,
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662537062391"
+    }
+  },
+  "trainer": true
+},{
+  "_id": "dukelo@iotnet.com.tw",
+  "userId": "dukelo@iotnet.com.tw",
+  "active": true,
+  "expiry": {
+    "$date": {
+      "$numberLong": "4817690377017"
+    }
+  },
+  "feature": {
+    "scheduleTrigger": true,
+    "mailTrigger": true,
+    "apiTrigger": true
+  },
+  "owner": "Ionet",
+  "scale": 1,
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662079792709"
+    }
+  },
+  "trainer": true
+},{
+  "_id": "philiptsai@mirle.com.tw",
+  "userId": "philiptsai@mirle.com.tw",
+  "active": true,
+  "expiry": {
+    "$date": {
+      "$numberLong": "4817690769498"
+    }
+  },
+  "feature": {
+    "scheduleTrigger": true,
+    "mailTrigger": true,
+    "apiTrigger": true
+  },
+  "owner": "Ionet",
+  "scale": 1,
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662079796639"
+    }
+  },
+  "trainer": true
+},{
+  "_id": "dukelo@mirle.com.tw",
+  "userId": "dukelo@mirle.com.tw",
+  "active": true,
+  "expiry": {
+    "$date": {
+      "$numberLong": "4818037000345"
+    }
+  },
+  "feature": {
+    "scheduleTrigger": true,
+    "mailTrigger": true,
+    "apiTrigger": true
+  },
+  "owner": null,
+  "scale": 1,
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662363400346"
+    }
+  },
+  "trainer": true
+},{
+  "_id": "jocelyn@iotnet.com.tw",
+  "userId": "jocelyn@iotnet.com.tw",
+  "active": true,
+  "expiry": {
+    "$date": {
+      "$numberLong": "4818042381434"
+    }
+  },
+  "feature": {
+    "scheduleTrigger": true,
+    "mailTrigger": true,
+    "apiTrigger": true
+  },
+  "owner": null,
+  "scale": 1,
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662368781435"
+    }
+  },
+  "trainer": true
+},{
+  "_id": "mattchang@iotnet.com.tw",
+  "userId": "mattchang@iotnet.com.tw",
+  "active": true,
+  "expiry": {
+    "$date": {
+      "$numberLong": "4818966204266"
+    }
+  },
+  "feature": {
+    "scheduleTrigger": true,
+    "mailTrigger": true,
+    "apiTrigger": true
+  },
+  "owner": null,
+  "scale": 1,
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1663292604267"
+    }
+  },
+  "trainer": true
+},{
+  "_id": "echoedinvoker@gmail.com",
+  "userId": "echoedinvoker@gmail.com",
+  "active": true,
+  "expiry": {
+    "$date": {
+      "$numberLong": "4819394092970"
+    }
+  },
+  "feature": {
+    "scheduleTrigger": true,
+    "mailTrigger": true,
+    "apiTrigger": true
+  },
+  "owner": null,
+  "scale": 1,
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1664254278647"
+    }
+  },
+  "trainer": true
+}]

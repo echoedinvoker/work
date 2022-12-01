@@ -1,0 +1,5 @@
+{
+  "input": "C:\\Users\\mattchang\\Desktop\\import-export\\input\\original.csv",
+  "output": "C:\\Users\\mattchang\\Desktop\\import-export\\output",
+  "test": "C:\\Users\\mattchang\\Desktop\\import-export\\output\\test.csv"
+}

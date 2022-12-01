@@ -1,0 +1,10 @@
+錯誤:
+Uncaught SyntaxError: Unexpected token ')'
+
+http://192.168.56.1:38069/web#id=&action=283&model=sale.order&view_type=form&cids=1&menu_id=174:72
+追溯:
+SyntaxError: Unexpected token ')'
+    at node:electron/js2c/renderer_init:93:404
+    at EventEmitter.<anonymous> (node:electron/js2c/renderer_init:81:375)
+    at EventEmitter.emit (node:events:527:28)
+    at Object.onMessage (node:electron/js2c/renderer_init:69:755)

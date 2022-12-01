@@ -1,0 +1,2035 @@
+[{
+  "_id": {
+    "$oid": "631058a289542e290308b07c"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662015650744"
+    }
+  },
+  "pcid": "pc.e220c45f-47b2-4e5a-8e1c-ffaaaebe83e7",
+  "userId": "mattchang@mirle.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "63105d0a89542e290308b07d"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662016778655"
+    }
+  },
+  "pcid": "pc.abddc627-c920-4093-85f5-965dae39b83f",
+  "userId": "dukelo@iotnet.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.100.130",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "63105d5f89542e290308b07e"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662016849922"
+    }
+  },
+  "userId": "dukelo@iotnet.com.tw",
+  "pcid": "pc.abddc627-c920-4093-85f5-965dae39b83f",
+  "action": "EXECUTE",
+  "uuid": "fa0e097a-0af2-45f0-aaa8-f21c0f1b5afc",
+  "title": "",
+  "code": 200,
+  "duration": 12177,
+  "ip": "::ffff:192.168.100.130",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "63105d6589542e290308b07f"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662016869032"
+    }
+  },
+  "userId": "dukelo@iotnet.com.tw",
+  "pcid": "pc.abddc627-c920-4093-85f5-965dae39b83f",
+  "action": "UPLOAD",
+  "ip": "::ffff:192.168.100.130",
+  "version": "1.8.20220626",
+  "uuid": "fa0e097a-0af2-45f0-aaa8-f21c0f1b5afc",
+  "title": ""
+},{
+  "_id": {
+    "$oid": "63105d6d89542e290308b080"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662016877215"
+    }
+  },
+  "userId": "dukelo@iotnet.com.tw",
+  "pcid": "pc.abddc627-c920-4093-85f5-965dae39b83f",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.100.130",
+  "version": "1.8.20220626",
+  "uuid": "fa0e097a-0af2-45f0-aaa8-f21c0f1b5afc",
+  "title": ""
+},{
+  "_id": {
+    "$oid": "63105d7c89542e290308b081"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662016878491"
+    }
+  },
+  "userId": "dukelo@iotnet.com.tw",
+  "pcid": "pc.abddc627-c920-4093-85f5-965dae39b83f",
+  "action": "EXECUTE",
+  "uuid": "fa0e097a-0af2-45f0-aaa8-f21c0f1b5afc",
+  "title": "",
+  "code": 200,
+  "duration": 12006,
+  "ip": "::ffff:192.168.100.130",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "63105e9289542e290308b082"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662017170866"
+    }
+  },
+  "pcid": "pc.86d1a3b2-9934-4dda-a47d-63810d34ef36",
+  "userId": "philiptsai@mirle.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.39.54",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "631060bf89542e290308b083"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662017727962"
+    }
+  },
+  "userId": "philiptsai@mirle.com.tw",
+  "pcid": "pc.86d1a3b2-9934-4dda-a47d-63810d34ef36",
+  "action": "UPLOAD",
+  "ip": "::ffff:192.168.39.54",
+  "version": "1.8.20220626",
+  "uuid": "b73b778e-eda7-48df-aef0-cfdcf8af15a5",
+  "title": "123"
+},{
+  "_id": {
+    "$oid": "631060df89542e290308b084"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662017759731"
+    }
+  },
+  "userId": "philiptsai@mirle.com.tw",
+  "pcid": "pc.86d1a3b2-9934-4dda-a47d-63810d34ef36",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.54",
+  "version": "1.8.20220626",
+  "uuid": "b73b778e-eda7-48df-aef0-cfdcf8af15a5",
+  "title": "123"
+},{
+  "_id": {
+    "$oid": "631060f189542e290308b085"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662017766836"
+    }
+  },
+  "userId": "philiptsai@mirle.com.tw",
+  "pcid": "pc.86d1a3b2-9934-4dda-a47d-63810d34ef36",
+  "action": "EXECUTE",
+  "uuid": "b73b778e-eda7-48df-aef0-cfdcf8af15a5",
+  "title": "123",
+  "code": 400,
+  "duration": 9102,
+  "ip": "::ffff:192.168.39.54",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "6310610d89542e290308b086"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662017766836"
+    }
+  },
+  "userId": "philiptsai@mirle.com.tw",
+  "pcid": "pc.86d1a3b2-9934-4dda-a47d-63810d34ef36",
+  "action": "EXECUTE",
+  "uuid": "b73b778e-eda7-48df-aef0-cfdcf8af15a5",
+  "title": "123",
+  "code": 200,
+  "duration": 37173,
+  "ip": "::ffff:192.168.39.54",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "6310619f89542e290308b087"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662017951578"
+    }
+  },
+  "userId": "philiptsai@mirle.com.tw",
+  "pcid": "pc.86d1a3b2-9934-4dda-a47d-63810d34ef36",
+  "action": "UPLOAD",
+  "ip": "::ffff:192.168.39.54",
+  "version": "1.8.20220626",
+  "uuid": "d3d6563a-e466-4b70-aa63-f235a07bf0d7",
+  "title": "給一個 test.txt"
+},{
+  "_id": {
+    "$oid": "631061a789542e290308b088"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662017959815"
+    }
+  },
+  "userId": "philiptsai@mirle.com.tw",
+  "pcid": "pc.86d1a3b2-9934-4dda-a47d-63810d34ef36",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.54",
+  "version": "1.8.20220626",
+  "uuid": "d3d6563a-e466-4b70-aa63-f235a07bf0d7",
+  "title": "給一個 test.txt"
+},{
+  "_id": {
+    "$oid": "631061b589542e290308b089"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662017973783"
+    }
+  },
+  "userId": "philiptsai@mirle.com.tw",
+  "pcid": "pc.86d1a3b2-9934-4dda-a47d-63810d34ef36",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.54",
+  "version": "1.8.20220626",
+  "uuid": "b73b778e-eda7-48df-aef0-cfdcf8af15a5",
+  "title": "123"
+},{
+  "_id": {
+    "$oid": "631061c689542e290308b08a"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662017974269"
+    }
+  },
+  "userId": "philiptsai@mirle.com.tw",
+  "pcid": "pc.86d1a3b2-9934-4dda-a47d-63810d34ef36",
+  "action": "EXECUTE",
+  "uuid": "b73b778e-eda7-48df-aef0-cfdcf8af15a5",
+  "title": "123",
+  "code": 400,
+  "duration": 15039,
+  "ip": "::ffff:192.168.39.54",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "631061ff89542e290308b08b"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662018047242"
+    }
+  },
+  "userId": "philiptsai@mirle.com.tw",
+  "pcid": "pc.86d1a3b2-9934-4dda-a47d-63810d34ef36",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.54",
+  "version": "1.8.20220626",
+  "uuid": "d3d6563a-e466-4b70-aa63-f235a07bf0d7",
+  "title": "給一個 test.txt"
+},{
+  "_id": {
+    "$oid": "6310621589542e290308b08c"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662018047916"
+    }
+  },
+  "userId": "philiptsai@mirle.com.tw",
+  "pcid": "pc.86d1a3b2-9934-4dda-a47d-63810d34ef36",
+  "action": "EXECUTE",
+  "uuid": "b73b778e-eda7-48df-aef0-cfdcf8af15a5",
+  "title": "123",
+  "code": 200,
+  "duration": 20171,
+  "ip": "::ffff:192.168.39.54",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "6310627189542e290308b08d"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662018161861"
+    }
+  },
+  "userId": "philiptsai@mirle.com.tw",
+  "pcid": "pc.86d1a3b2-9934-4dda-a47d-63810d34ef36",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.54",
+  "version": "1.8.20220626",
+  "uuid": "b73b778e-eda7-48df-aef0-cfdcf8af15a5",
+  "title": "範例 抓取新竹天氣"
+},{
+  "_id": {
+    "$oid": "631063a989542e290308b08e"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662018473542"
+    }
+  },
+  "pcid": "pc.86d1a3b2-9934-4dda-a47d-63810d34ef36",
+  "userId": "philiptsai@mirle.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.39.54",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "6310681589542e290308b08f"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662019605996"
+    }
+  },
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "userId": "mattchang@mirle.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "6310696389542e290308b090"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662019907951"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "EXECUTE",
+  "uuid": "bc834462-2e4c-4b63-845d-f7019609f387",
+  "title": "使用者輸入 (0 - text, 1 - folder)",
+  "code": 200,
+  "duration": 30442,
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "6310698689542e290308b091"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662019952293"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "EXECUTE",
+  "uuid": "bc834462-2e4c-4b63-845d-f7019609f387",
+  "title": "使用者輸入 (0 - text, 1 - folder)",
+  "code": 200,
+  "duration": 20373,
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "63106a8289542e290308b092"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662020226970"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "UPLOAD",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "bc834462-2e4c-4b63-845d-f7019609f387",
+  "title": "使用者輸入 (0 - text, 1 - folder)"
+},{
+  "_id": {
+    "$oid": "63106b4b89542e290308b093"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662020427664"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "bc834462-2e4c-4b63-845d-f7019609f387",
+  "title": "使用者輸入 (0 - text, 1 - folder)"
+},{
+  "_id": {
+    "$oid": "63106c7989542e290308b094"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662020729994"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "UPLOAD",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "c29121c6-80a9-4d57-a744-8af74abcd205",
+  "title": "將指定資料夾中的 CSV 路徑整理成另一個 CSV 檔案"
+},{
+  "_id": {
+    "$oid": "63106c9889542e290308b095"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662020760749"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "c29121c6-80a9-4d57-a744-8af74abcd205",
+  "title": "將指定資料夾中的 CSV 路徑整理成另一個 CSV 檔案"
+},{
+  "_id": {
+    "$oid": "63106cad89542e290308b096"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662020781868"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "c29121c6-80a9-4d57-a744-8af74abcd205",
+  "title": "將指定資料夾中的 CSV 路徑整理成另一個 CSV 檔案"
+},{
+  "_id": {
+    "$oid": "63106cbc89542e290308b097"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662020796308"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "UPLOAD",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "c29121c6-80a9-4d57-a744-8af74abcd205",
+  "title": "將指定資料夾中的 CSV 路徑整理成另一個 CSV 檔案"
+},{
+  "_id": {
+    "$oid": "63106cef89542e290308b098"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662020847230"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "c29121c6-80a9-4d57-a744-8af74abcd205",
+  "title": "將指定資料夾中的 CSV 路徑整理成另一個 CSV 檔案"
+},{
+  "_id": {
+    "$oid": "63106d1489542e290308b099"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662020884387"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "UPLOAD",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "a27d1c94-4b8a-4329-a2d2-d57dd4ac7f2c",
+  "title": ""
+},{
+  "_id": {
+    "$oid": "63106d1a89542e290308b09a"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662020890770"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "a27d1c94-4b8a-4329-a2d2-d57dd4ac7f2c",
+  "title": ""
+},{
+  "_id": {
+    "$oid": "63106d3489542e290308b09b"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662020891235"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "EXECUTE",
+  "uuid": "a27d1c94-4b8a-4329-a2d2-d57dd4ac7f2c",
+  "title": "",
+  "code": 200,
+  "duration": 23602,
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "6310704989542e290308b09c"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662021705077"
+    }
+  },
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "userId": "mattchang@mirle.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "631071d789542e290308b09d"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662022103353"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "UPLOAD",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "2c8b2ffe-dfc1-4c2c-b94e-2936080f893d",
+  "title": "讀取 Excel 資料匯入現有 JSON (依 Account、Time 排序)"
+},{
+  "_id": {
+    "$oid": "631071e989542e290308b09e"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662022121027"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "2c8b2ffe-dfc1-4c2c-b94e-2936080f893d",
+  "title": "讀取 Excel 資料匯入現有 JSON (依 Account、Time 排序)"
+},{
+  "_id": {
+    "$oid": "6310720b89542e290308b09f"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662022127904"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "EXECUTE",
+  "uuid": "a27d1c94-4b8a-4329-a2d2-d57dd4ac7f2c",
+  "title": "",
+  "code": 200,
+  "duration": 26490,
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "6310723f89542e290308b0a0"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662022207646"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "2c8b2ffe-dfc1-4c2c-b94e-2936080f893d",
+  "title": "讀取 Excel 資料匯入現有 JSON (依 Account、Time 排序)"
+},{
+  "_id": {
+    "$oid": "6310724d89542e290308b0a1"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662022221163"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "2c8b2ffe-dfc1-4c2c-b94e-2936080f893d",
+  "title": "讀取 Excel 資料匯入現有 JSON (依 Account、Time 排序)"
+},{
+  "_id": {
+    "$oid": "6310729989542e290308b0a2"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662022297509"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "a27d1c94-4b8a-4329-a2d2-d57dd4ac7f2c",
+  "title": ""
+},{
+  "_id": {
+    "$oid": "631072e489542e290308b0a3"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662022372924"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "a27d1c94-4b8a-4329-a2d2-d57dd4ac7f2c",
+  "title": ""
+},{
+  "_id": {
+    "$oid": "6310730689542e290308b0a4"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662022406682"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "a27d1c94-4b8a-4329-a2d2-d57dd4ac7f2c",
+  "title": ""
+},{
+  "_id": {
+    "$oid": "6310736289542e290308b0a5"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662022407438"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "EXECUTE",
+  "uuid": "a27d1c94-4b8a-4329-a2d2-d57dd4ac7f2c",
+  "title": "",
+  "code": 200,
+  "duration": 89645,
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "631073cf89542e290308b0a6"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662022607044"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "UPLOAD",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "2c8b2ffe-dfc1-4c2c-b94e-2936080f893d",
+  "title": "讀取 Excel 資料匯入現有 JSON (依 Account、Time 排序)"
+},{
+  "_id": {
+    "$oid": "6310754189542e290308b0a7"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662022977785"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "UPLOAD",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "ef696257-029a-4320-81a1-706d5b2c7954",
+  "title": "111"
+},{
+  "_id": {
+    "$oid": "6310754b89542e290308b0a8"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662022987558"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "ef696257-029a-4320-81a1-706d5b2c7954",
+  "title": "111"
+},{
+  "_id": {
+    "$oid": "6310755d89542e290308b0a9"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662022993063"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "EXECUTE",
+  "uuid": "ef696257-029a-4320-81a1-706d5b2c7954",
+  "title": "111",
+  "code": 200,
+  "duration": 10686,
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "631075ee89542e290308b0aa"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662023150558"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "UPLOAD",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整"
+},{
+  "_id": {
+    "$oid": "6310760d89542e290308b0ab"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662023181492"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整"
+},{
+  "_id": {
+    "$oid": "6310763d89542e290308b0ac"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662023229877"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整"
+},{
+  "_id": {
+    "$oid": "6310765389542e290308b0ad"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662023230813"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "EXECUTE",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整",
+  "code": 200,
+  "duration": 19340,
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "631076fd89542e290308b0ae"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662023421566"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整"
+},{
+  "_id": {
+    "$oid": "631077b789542e290308b0af"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662023530078"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "EXECUTE",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整",
+  "code": 200,
+  "duration": 75599,
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "6310792889542e290308b0b0"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662023976668"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整"
+},{
+  "_id": {
+    "$oid": "6310796089542e290308b0b1"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662024032058"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "UPLOAD",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整"
+},{
+  "_id": {
+    "$oid": "631079b989542e290308b0b2"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662024121359"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整"
+},{
+  "_id": {
+    "$oid": "63107a3789542e290308b0b3"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662024164470"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "EXECUTE",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整",
+  "code": 200,
+  "duration": 81376,
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "63107abb89542e290308b0b4"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662024379755"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整"
+},{
+  "_id": {
+    "$oid": "63107c3389542e290308b0b5"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662024755617"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整"
+},{
+  "_id": {
+    "$oid": "63107c8489542e290308b0b6"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662024836434"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整"
+},{
+  "_id": {
+    "$oid": "63107cbd89542e290308b0b7"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662024893990"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "DELETE",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "ef696257-029a-4320-81a1-706d5b2c7954",
+  "title": "111"
+},{
+  "_id": {
+    "$oid": "63107cc389542e290308b0b8"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662024899551"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "DELETE",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "2c8b2ffe-dfc1-4c2c-b94e-2936080f893d",
+  "title": "讀取 Excel 資料匯入現有 JSON (依 Account、Time 排序)"
+},{
+  "_id": {
+    "$oid": "63107cc689542e290308b0b9"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662024902400"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "DELETE",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "a27d1c94-4b8a-4329-a2d2-d57dd4ac7f2c",
+  "title": ""
+},{
+  "_id": {
+    "$oid": "63107cc989542e290308b0ba"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662024905377"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "DELETE",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "c29121c6-80a9-4d57-a744-8af74abcd205",
+  "title": "將指定資料夾中的 CSV 路徑整理成另一個 CSV 檔案"
+},{
+  "_id": {
+    "$oid": "63107ccd89542e290308b0bb"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662024909189"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "DELETE",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "bc834462-2e4c-4b63-845d-f7019609f387",
+  "title": "使用者輸入 (0 - text, 1 - folder)"
+},{
+  "_id": {
+    "$oid": "63107cd589542e290308b0bc"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662024836427"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "EXECUTE",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整",
+  "code": 400,
+  "duration": 79621,
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "63107d3089542e290308b0bd"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662025008588"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整"
+},{
+  "_id": {
+    "$oid": "63107d9089542e290308b0be"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662025008457"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "EXECUTE",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整",
+  "code": 400,
+  "duration": 93993,
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "6310806189542e290308b0bf"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662025825413"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整"
+},{
+  "_id": {
+    "$oid": "631080b989542e290308b0c0"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662025913634"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整"
+},{
+  "_id": {
+    "$oid": "631080be89542e290308b0c1"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662025918595"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整"
+},{
+  "_id": {
+    "$oid": "631080c489542e290308b0c2"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662025924476"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "UPLOAD",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整"
+},{
+  "_id": {
+    "$oid": "6310814089542e290308b0c3"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662025924559"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.e791efa4-9dfc-4b41-9813-87aff32d8202",
+  "action": "EXECUTE",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整",
+  "code": 200,
+  "duration": 121835,
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "63114f3389542e290308b0c4"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662078771371"
+    }
+  },
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "userId": "mattchang@mirle.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "6311505a89542e290308b0c5"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662079066158"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整"
+},{
+  "_id": {
+    "$oid": "631150b789542e290308b0c6"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662079074871"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "EXECUTE",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整",
+  "code": 200,
+  "duration": 82716,
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "631150f989542e290308b0c7"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662079225737"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整"
+},{
+  "_id": {
+    "$oid": "631150fe89542e290308b0c8"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662079230694"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "UPLOAD",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整"
+},{
+  "_id": {
+    "$oid": "63115b2589542e290308b0c9"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662081829000"
+    }
+  },
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "userId": "mattchang@mirle.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "63115be989542e290308b0ca"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662082025821"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "UPLOAD",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "f8b9999c-9bd5-4a2a-b663-b6684f99741d",
+  "title": "Google 搜尋連結彙整"
+},{
+  "_id": {
+    "$oid": "63115bf089542e290308b0cb"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662082032440"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "f8b9999c-9bd5-4a2a-b663-b6684f99741d",
+  "title": "Google 搜尋連結彙整"
+},{
+  "_id": {
+    "$oid": "63115c1a89542e290308b0cc"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662082033755"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "EXECUTE",
+  "uuid": "f8b9999c-9bd5-4a2a-b663-b6684f99741d",
+  "title": "Google 搜尋連結彙整",
+  "code": 200,
+  "duration": 38608,
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "63115d5d89542e290308b0cd"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662082397827"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "f8b9999c-9bd5-4a2a-b663-b6684f99741d",
+  "title": "Google 搜尋連結彙整"
+},{
+  "_id": {
+    "$oid": "63117b4689542e290308b0ce"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662090054850"
+    }
+  },
+  "pcid": "pc.86d1a3b2-9934-4dda-a47d-63810d34ef36",
+  "userId": "philiptsai@mirle.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.39.54",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "63159d5789542e290308b0cf"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662360919424"
+    }
+  },
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "userId": "mattchang@mirle.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "6315a70989542e290308b0d0"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662363401476"
+    }
+  },
+  "pcid": "pc.4a2e6373-a92a-4135-830c-80cc87e4810e",
+  "userId": "dukelo@mirle.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.100.130",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "6315bc0e89542e290308b0d1"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662368782485"
+    }
+  },
+  "pcid": "pc.c2c72848-2d22-4159-b957-80c9d43e6e9f",
+  "userId": "jocelyn@iotnet.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.39.133",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "6316e16c89542e290308b0d2"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662443884394"
+    }
+  },
+  "pcid": "pc.c2c72848-2d22-4159-b957-80c9d43e6e9f",
+  "userId": "jocelyn@iotnet.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.102.182",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "6316f5a589542e290308b0d3"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662449061753"
+    }
+  },
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "userId": "mattchang@mirle.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "6317054589542e290308b0d4"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662453061365"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "UPLOAD",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "343dc64a-a59c-4114-a02c-828578d64dec",
+  "title": "測試新竹天氣"
+},{
+  "_id": {
+    "$oid": "6317054d89542e290308b0d5"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662453069303"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "343dc64a-a59c-4114-a02c-828578d64dec",
+  "title": "測試新竹天氣"
+},{
+  "_id": {
+    "$oid": "63170f3389542e290308b0d6"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662455603455"
+    }
+  },
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "userId": "mattchang@mirle.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "63170fb389542e290308b0d7"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662455731823"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "UPLOAD",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "9016b188-aab9-45d7-acfa-ada885a2c673",
+  "title": "自行車"
+},{
+  "_id": {
+    "$oid": "63170fbf89542e290308b0d8"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662455743282"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "9016b188-aab9-45d7-acfa-ada885a2c673",
+  "title": "自行車"
+},{
+  "_id": {
+    "$oid": "63170fc889542e290308b0d9"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662455752592"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "DELETE",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "343dc64a-a59c-4114-a02c-828578d64dec",
+  "title": "測試新竹天氣"
+},{
+  "_id": {
+    "$oid": "6317ed7889542e290308b0da"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662512504441"
+    }
+  },
+  "pcid": "pc.86d1a3b2-9934-4dda-a47d-63810d34ef36",
+  "userId": "philiptsai@mirle.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.39.54",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "631813fa89542e290308b0db"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662522362453"
+    }
+  },
+  "pcid": "pc.c2c72848-2d22-4159-b957-80c9d43e6e9f",
+  "userId": "jocelyn@iotnet.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.39.133",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "631849ac89542e290308b0dc"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662536108036"
+    }
+  },
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "userId": "mattchang@mirle.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "63184ad489542e290308b0dd"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662536383166"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "EXECUTE",
+  "uuid": "a694c8cc-735a-4da5-aa40-0b466522c553",
+  "title": "",
+  "code": 200,
+  "duration": 14318,
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "63184b7d89542e290308b0de"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662536573076"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "UPLOAD",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "a694c8cc-735a-4da5-aa40-0b466522c553",
+  "title": "test"
+},{
+  "_id": {
+    "$oid": "63184b8689542e290308b0df"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662536582219"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "a694c8cc-735a-4da5-aa40-0b466522c553",
+  "title": "test"
+},{
+  "_id": {
+    "$oid": "63184b8a89542e290308b0e0"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662536586702"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "DELETE",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "9016b188-aab9-45d7-acfa-ada885a2c673",
+  "title": "自行車"
+},{
+  "_id": {
+    "$oid": "63184ba189542e290308b0e1"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662536609820"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "a694c8cc-735a-4da5-aa40-0b466522c553",
+  "title": "test"
+},{
+  "_id": {
+    "$oid": "63184bb189542e290308b0e2"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662536606005"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "EXECUTE",
+  "uuid": "a694c8cc-735a-4da5-aa40-0b466522c553",
+  "title": "test",
+  "code": 200,
+  "duration": 12819,
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "63184c0989542e290308b0e3"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662536713376"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "a694c8cc-735a-4da5-aa40-0b466522c553",
+  "title": "test"
+},{
+  "_id": {
+    "$oid": "6318523f89542e290308b0e4"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662538303944"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "a694c8cc-735a-4da5-aa40-0b466522c553",
+  "title": "test"
+},{
+  "_id": {
+    "$oid": "6318525f89542e290308b0e5"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662538335141"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "a694c8cc-735a-4da5-aa40-0b466522c553",
+  "title": "發送信件內容確認按鈕測試"
+},{
+  "_id": {
+    "$oid": "6318529989542e290308b0e6"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662538393913"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "UPLOAD",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "a694c8cc-735a-4da5-aa40-0b466522c553",
+  "title": "發送信件內容確認按鈕測試"
+},{
+  "_id": {
+    "$oid": "6319530689542e290308b0e7"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662604038800"
+    }
+  },
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "userId": "mattchang@mirle.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "631997ae89542e290308b0e8"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662621614817"
+    }
+  },
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "userId": "mattchang@mirle.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "631997d689542e290308b0e9"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662621654002"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "UPLOAD",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "27f3dd02-9922-41c4-94f1-96b2a28ed75b",
+  "title": "中秋節測試"
+},{
+  "_id": {
+    "$oid": "631997dd89542e290308b0ea"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662621661175"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.63",
+  "version": "1.8.20220626",
+  "uuid": "27f3dd02-9922-41c4-94f1-96b2a28ed75b",
+  "title": "中秋節測試"
+},{
+  "_id": {
+    "$oid": "6319af8f89542e290308b0eb"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662627727486"
+    }
+  },
+  "pcid": "pc.c2c72848-2d22-4159-b957-80c9d43e6e9f",
+  "userId": "jocelyn@iotnet.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.39.133",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "6319afda89542e290308b0ec"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662627802533"
+    }
+  },
+  "pcid": "pc.c2c72848-2d22-4159-b957-80c9d43e6e9f",
+  "userId": "jocelyn@iotnet.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.39.133",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "631ea5ea89542e290308b0ed"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662952938170"
+    }
+  },
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "userId": "mattchang@mirle.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.102.24",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "631ead8889542e290308b0ee"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662954762859"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "EXECUTE",
+  "uuid": "28e104d6-6156-4b79-94d1-019d6cfd4457",
+  "title": "資安月報彙整",
+  "code": 200,
+  "duration": 120972,
+  "ip": "::ffff:192.168.102.24",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "631eaedc89542e290308b0ef"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1662955157088"
+    }
+  },
+  "userId": "mattchang@mirle.com.tw",
+  "pcid": "pc.832aa7d5-e0ea-4a02-ac19-5b70a6ee7c74",
+  "action": "EXECUTE",
+  "uuid": "f8b9999c-9bd5-4a2a-b663-b6684f99741d",
+  "title": "Google 搜尋連結彙整",
+  "code": 200,
+  "duration": 66603,
+  "ip": "::ffff:192.168.102.24",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "6323d4bd89542e290308b0f0"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1663292605322"
+    }
+  },
+  "pcid": "pc.c22b8158-8c1d-4269-87e9-6ba66f019c19",
+  "userId": "mattchang@iotnet.com.tw",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.39.98",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "6323d51a89542e290308b0f1"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1663292698821"
+    }
+  },
+  "userId": "mattchang@iotnet.com.tw",
+  "pcid": "pc.c22b8158-8c1d-4269-87e9-6ba66f019c19",
+  "action": "UPLOAD",
+  "ip": "::ffff:192.168.39.98",
+  "version": "1.8.20220626",
+  "uuid": "4c060a23-98d1-4e27-be1a-29467261bb4f",
+  "title": "123"
+},{
+  "_id": {
+    "$oid": "6323d52689542e290308b0f2"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1663292710852"
+    }
+  },
+  "userId": "mattchang@iotnet.com.tw",
+  "pcid": "pc.c22b8158-8c1d-4269-87e9-6ba66f019c19",
+  "action": "INSTALL",
+  "ip": "::ffff:192.168.39.98",
+  "version": "1.8.20220626",
+  "uuid": "4c060a23-98d1-4e27-be1a-29467261bb4f",
+  "title": "123"
+},{
+  "_id": {
+    "$oid": "6323d55989542e290308b0f3"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1663292751588"
+    }
+  },
+  "userId": "mattchang@iotnet.com.tw",
+  "pcid": "pc.c22b8158-8c1d-4269-87e9-6ba66f019c19",
+  "action": "EXECUTE",
+  "uuid": "4c060a23-98d1-4e27-be1a-29467261bb4f",
+  "title": "123",
+  "code": 200,
+  "duration": 6236,
+  "ip": "::ffff:192.168.39.98",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "6323d57389542e290308b0f4"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1663292777242"
+    }
+  },
+  "userId": "mattchang@iotnet.com.tw",
+  "pcid": "pc.c22b8158-8c1d-4269-87e9-6ba66f019c19",
+  "action": "EXECUTE",
+  "uuid": "4c060a23-98d1-4e27-be1a-29467261bb4f",
+  "title": "123",
+  "code": 200,
+  "duration": 6053,
+  "ip": "::ffff:192.168.39.98",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "6323d5b689542e290308b0f5"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1663292844185"
+    }
+  },
+  "userId": "mattchang@iotnet.com.tw",
+  "pcid": "pc.c22b8158-8c1d-4269-87e9-6ba66f019c19",
+  "action": "EXECUTE",
+  "uuid": "4c060a23-98d1-4e27-be1a-29467261bb4f",
+  "title": "123",
+  "code": 200,
+  "duration": 6218,
+  "ip": "::ffff:192.168.39.98",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "6323d5fc89542e290308b0f6"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1663292914969"
+    }
+  },
+  "userId": "mattchang@iotnet.com.tw",
+  "pcid": "pc.c22b8158-8c1d-4269-87e9-6ba66f019c19",
+  "action": "EXECUTE",
+  "uuid": "4c060a23-98d1-4e27-be1a-29467261bb4f",
+  "title": "123",
+  "code": 200,
+  "duration": 6151,
+  "ip": "::ffff:192.168.39.98",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "6323d64e89542e290308b0f7"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1663293006501"
+    }
+  },
+  "userId": "mattchang@iotnet.com.tw",
+  "pcid": "pc.c22b8158-8c1d-4269-87e9-6ba66f019c19",
+  "action": "DELETE",
+  "ip": "::ffff:192.168.39.98",
+  "version": "1.8.20220626",
+  "uuid": "4c060a23-98d1-4e27-be1a-29467261bb4f",
+  "title": "123"
+},{
+  "_id": {
+    "$oid": "632a5c2e89542e290308b0f8"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1663720494060"
+    }
+  },
+  "pcid": "pc.463afb18-79f6-43cf-a709-5ddaf7903be8",
+  "userId": "echoedinvoker@gmail.com",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.39.86",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "633281487d5191e67302c00b"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1664254280432"
+    }
+  },
+  "pcid": "pc.a07b512e-f0db-4b0b-a5db-558679a95601",
+  "userId": "echoedinvoker@gmail.com",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.64.1",
+  "version": "1.8.20220626"
+},{
+  "_id": {
+    "$oid": "633284bbf498e334643a3c4c"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1664255163567"
+    }
+  },
+  "pcid": "pc.a07b512e-f0db-4b0b-a5db-558679a95601",
+  "userId": "echoedinvoker@gmail.com",
+  "action": "SIGNIN",
+  "ip": "::ffff:192.168.128.1",
+  "version": "1.8.20220626"
+}]
