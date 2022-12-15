@@ -41,6 +41,8 @@
 
 ![Alt undefined](pic/a14.jpg)
 
+- 此確認框有時會出現有時不會，所以必須做一個檢查的動作
+
 ![Alt undefined](pic/a15.jpg)
 
 ![Alt undefined](pic/a16.jpg)
