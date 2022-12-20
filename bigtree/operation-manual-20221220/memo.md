@@ -32,6 +32,8 @@
 
 ![Alt undefined](pic/13.jpg)
 
+- 考慮上圖操作與前面步驟 12，移至所有館名、網址資料紀錄完畢之後執行 (迴圈完畢後輸入)，這樣可以節省 Google Sheets 模組的重複開啟動作
+
 ![Alt undefined](pic/14.jpg)
 
 ![Alt undefined](pic/15.jpg)
