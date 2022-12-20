@@ -8,6 +8,8 @@
 
 ![Alt undefined](pic/04.jpg)
 
+- 不確定詳細操作方式
+
 ![Alt undefined](pic/05.jpg)
 
 ![Alt undefined](pic/06.jpg)
