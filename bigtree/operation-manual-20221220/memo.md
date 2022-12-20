@@ -4,11 +4,15 @@
 
 ![Alt undefined](pic/03.jpg)
 
+- 考慮步驟 23 25 一併在此處執行，可節省畫面切換動作
+
 ![Alt undefined](pic/04.jpg)
 
 ![Alt undefined](pic/05.jpg)
 
 ![Alt undefined](pic/06.jpg)
+
+- 網址應可使用連結路徑加下一頁中看到的 domain 組合出完整路徑直接開啟，不需要回此頁點擊
 
 ![Alt undefined](pic/07.jpg)
 
